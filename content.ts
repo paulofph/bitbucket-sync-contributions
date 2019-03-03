@@ -1,1 +1,1 @@
-console.log("obrer")
+console.log("xtnro")
