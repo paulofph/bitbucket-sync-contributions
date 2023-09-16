@@ -1,1 +1,1 @@
-console.log("msocy")
+console.log("wiclk")
