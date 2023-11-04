@@ -1,1 +1,1 @@
-console.log("kvwin")
+console.log("pomos")
