@@ -1,1 +1,1 @@
-console.log("pomos")
+console.log("mrfko")
