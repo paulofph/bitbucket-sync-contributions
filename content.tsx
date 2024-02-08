@@ -1,1 +1,1 @@
-console.log("kotcu")
+console.log("otrcm")
